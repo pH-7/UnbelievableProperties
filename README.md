@@ -10,7 +10,7 @@ Finally, please note that for this example, the data is saved in the user's sess
 
 ### Why Did you made That?
 
-I made this in 3 hours during a "hack day" organized by my Irish company. It was really fun and enjoyed eating Pizzas and drinking beers!
+I made this in 3 hours during a "hack day" organized by my Irish company (yep, you can see that as the code is quite durty! [Uncle Bob](https://cleancoders.com/) would be angry). It was really fun and enjoyed eating Pizzas and drinking beers!
 What a fun way to work, isn't it?
 
 
