@@ -85,10 +85,10 @@ class Geo
      */
     public static function getCity($sIpAddress = null)
     {
-		if (Library::getPublicIp() == '87.198.161.74') { // MaxMind don't return any city from my company IP
-		    return 'Dublin';
-		}
-		    
+        if (Library::getPublicIp() == '87.198.161.74') { // MaxMind don't return any city from my company IP
+            return 'Dublin';
+        }
+
         // Encode to UTF8 for Latin and other characters of the GeoIP database are displayed correctly.
         return utf8_encode(static::get($sIpAddress)->city->name);
     }
