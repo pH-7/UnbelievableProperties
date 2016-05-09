@@ -2,7 +2,7 @@
 
 ### What is that?
 
-It's a new way to post, promote and find properies.
+It's a new way to post, promote and find properties.
 This is a fun Real Estate ads website that uses Instagram and GeoLocalization for the Property data.
 It also doesn't use description for adverts as most people lie when they are writing an advert description.
 
@@ -20,7 +20,7 @@ Haha, oh that's me! If you don't know me, my name is **Pierre-Henry Soria** by t
 
 ### Grant! And can I contact you...?
 
-Sure, my email address are **soria [D0T] pierrehenry [AT] gmail [D0T] com**
+Sure, my email address are **pierrehenrysoria [AT] gmail [D0T] com**
 
 
 ### Fantastic!, and what is your GitHub..?

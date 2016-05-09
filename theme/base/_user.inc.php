@@ -1,4 +1,8 @@
 <?php
+/**
+ * @author  Pierre-Henry Soria <pierrehenrysoria@gmail.com>
+ */
+
 if (!empty($_GET['code']) && empty($_SESSION['token'])) {
     $_SESSION['token'] = $_GET['code'];
     $data = $oInstagram->getOAuthToken($_SESSION['token']);

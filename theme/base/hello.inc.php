@@ -1,4 +1,8 @@
-<?php require '_user.inc.php';
+<?php
+/**
+ * @author  Pierre-Henry Soria <pierrehenrysoria@gmail.com>
+ */
+require '_user.inc.php';
 $sHashTag = Library::hashTag($data->user->id);
 ?>
 <div style="text-align:center">

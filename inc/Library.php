@@ -1,4 +1,8 @@
 <?php
+/**
+ * @author  Pierre-Henry Soria <pierrehenrysoria@gmail.com>
+ */
+
 class Library
 {
     public static function hashTag($iId)

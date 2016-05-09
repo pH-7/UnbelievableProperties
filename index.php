@@ -1,4 +1,8 @@
 <?php
+/**
+ * @author  Pierre-Henry Soria <pierrehenrysoria@gmail.com>
+ */
+
 session_start();
 
 ob_start();

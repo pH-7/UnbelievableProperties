@@ -1,4 +1,7 @@
 <?php
+/**
+ * @author  Pierre-Henry Soria <pierrehenrysoria@gmail.com>
+ */
 class Config
 {
     const NAME = 'My Unbelievable Properties!!!';
